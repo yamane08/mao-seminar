@@ -7,8 +7,9 @@ https://elmas3.github.io/mao-seminar/
 魔法教授
 エルマス
 わかば
-#デレクトリ
 
+# ディレクトリ構成
+```
 seminar/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
